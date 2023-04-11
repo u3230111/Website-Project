@@ -92,3 +92,11 @@ img{
 .poster1:hover{
     filter: brightness(105%);
 }
+
+.contentpage{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    background-image: url(images/backgroundIMG2.jpg); 
+}
